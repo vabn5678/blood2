@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: black;
+}
+
+.enter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 34px;
+    color: white;
+
+}
+
+.forum {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+
+
+}
+
+.label {
+    color: white;
+}
+
+#find {
+    width: 36%;
+    margin: 4px 85px;
+
+}
+
+.input {
+    width: 90%;
+    border-radius: 35px;
+    background-color: white;
+    padding: 4px;
+    margin: 3px;
+}
